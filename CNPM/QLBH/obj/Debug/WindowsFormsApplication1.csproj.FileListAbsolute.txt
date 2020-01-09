@@ -1,0 +1,26 @@
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PNhap.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PXuat.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DonHang.resources
+C:\Users\ASUS\Desktop\đồ án\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Desktop\đồ án\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Desktop\đồ án\obj\Debug\WindowsFormsApplication1.pdb
+F:\Downloads\choduy\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Downloads\choduy\bin\Debug\WindowsFormsApplication1.exe
+F:\Downloads\choduy\bin\Debug\WindowsFormsApplication1.pdb
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.DonHang.resources
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.PNhap.resources
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.PXuat.resources
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.exe
+F:\Downloads\choduy\obj\Debug\WindowsFormsApplication1.pdb
